@@ -1,3 +1,3 @@
 หมา
 
-![GitHub Logo](images/logo.png)
+<img src="https://nongpets.com/wp-content/uploads/2019/07/Beagle.jpg" />
